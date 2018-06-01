@@ -1,2 +1,2 @@
 # iFromz CDN
-cdn.ifromz.info
+pkfrom.github.io/CDN
